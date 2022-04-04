@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_attach"
+        android:tint="@android:color/white"
+        android:icon="@drawable/ic_attach_file_black_24dp"
+        android:title="@string/title_attach_image"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_save"
+        android:tint="@android:color/white"
+        android:icon="@drawable/ic_action_save"
+        android:title="@string/title_save"
+        app:showAsAction="ifRoom" />
+
+</menu>

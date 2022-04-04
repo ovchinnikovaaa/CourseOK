@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CourseOK</string>
+    <string name="user_name">test@courseok.com</string>
+
+    <string name="hint_title">Заголовок конспекта</string>
+    <string name="hint_text">Текст конспекта</string>
+    <string name="title_save">Сохранить</string>
+    <string name="title_edit">Редактировать</string>
+    <string name="title_attach_image">Прикрепить изображение</string>
+    <string name="error_empty_field">Необходимо заполнить поле</string>
+    <string name="title_dialog_attachment_variants">Прикрепить изображение</string>
+    <string name="message_delete_image">Удалить изображение?</string>
+    <string name="chooser">Поделиться с помощью...</string>
+    <string name="sendNote">Отправить конспект</string>
+
+    <string name="title_btn_yes">Да</string>
+    <string name="title_btn_no">Нет</string>
+
+    <string-array name="attachment_variants">
+        <item>Выбрать из галереи</item>
+        <item>Сделать снимок</item>
+    </string-array>
+
+    <string name="nav_progress">Прогресс</string>
+    <string name="nav_category">Категории</string>
+    <string name="nav_calendar">Календарь</string>
+    <string name="nav_tasks">Задачи</string>
+    <string name="nav_platforms">Платформы</string>
+    <string name="nav_support">Поддержка</string>
+    <string name="nav_help">Помощь</string>
+    <string name="nav_feedback">Оставьте отзыв!</string>
+
+
+    <string name="nav_open_drawer">Open</string>
+    <string name="nav_close_drawer">Close</string>
+
+    <string name="to">an.s.ovchinnikova@mail.ru</string>
+
+    <string name="FeedbackExplanationText">Задайте вопрос или оставьте отзыв, пользуясь данной формой связи!</string>
+    <string name="ProgressExplanationText">Ваш прогресс:</string>
+</resources>
